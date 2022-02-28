@@ -24,3 +24,5 @@ except the `public/js` folder )
 
 Almost all demos require the following to be run from the command line in order to work:
 - `npm install`
+
+Happy learning
